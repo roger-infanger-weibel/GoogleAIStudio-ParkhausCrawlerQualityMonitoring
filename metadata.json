@@ -1,0 +1,6 @@
+{
+  "name": "Parkhaus Dashboard",
+  "description": "Dashboard zur Echtzeit-Anzeige und Analyse aller Tabellen der Parkhaus- und Crawler-Datenbank.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
